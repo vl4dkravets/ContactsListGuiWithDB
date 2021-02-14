@@ -1,0 +1,32 @@
+config/GlobalConfig.java
+ config.GlobalConfig
+exception/ContactDaoException.java
+ exception.ContactDaoException
+gui/EditContactDialog.java
+ gui.EditContactDialog
+dao/ContactDAO.java
+ dao.ContactDAO
+gui/ContactModel.java
+ gui.ContactModel
+dao/ConnectionBuilder.java
+ dao.ConnectionBuilder
+dao/ContactDbDAO.java
+ dao.ContactDbDAO
+dao/ConnectionBuilderFactory.java
+ dao.ConnectionBuilderFactory
+exception/ContactLogicException.java
+ exception.ContactLogicException
+gui/ContactFrame.java
+ gui.ContactFrame
+dao/ContactDAOFactory.java
+ dao.ContactDAOFactory
+test/ContactsTest.java
+ test.ContactsTest
+business_logic/ContactManager.java
+ business_logic.ContactManager
+gui/GuiResource.java
+ gui.GuiResource
+entity/Contact.java
+ entity.Contact
+dao/SimpleConnectionBuilder.java
+ dao.SimpleConnectionBuilder
